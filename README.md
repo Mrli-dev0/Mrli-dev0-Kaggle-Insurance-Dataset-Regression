@@ -1,11 +1,11 @@
 # Regression with an Insurance Dataset
 
 
-      \[\!\[GitHub license\]\(https://img\.shields\.io/badge/license\-MIT\-blue?style=flat\-square\)\]\(https://github\.com/Mrli\-dev0/Mrli\-dev0\-Kaggle\-Insurance\-Dataset\-Regression/blob/main/LICENSE\)
-      \[\!\[Python\]\(https://img\.shields\.io/badge/Python\-3\.8%2B\-brightgreen?style=flat\-square\)\]\(https://www\.python\.org/\)
-      \[\!\[Score\]\(https://img\.shields\.io/badge/Score\-1\.11008\-red?style=flat\-square\)\]\(\)
-      \[\!\[Rank\]\(https://img\.shields\.io/badge/Rank\-3rd%20\(Top%203\)\-yellow?style=flat\-square\)\]\(\)
-      \[\!\[Task\]\(https://img\.shields\.io/badge/Task\-Regression\-purple?style=flat\-square\)\]\(\)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](https://github.com/Mrli-dev0/Mrli-dev0-Kaggle-Insurance-Dataset-Regression/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-brightgreen?style=flat-square)](https://www.python.org/)
+[![Score](https://img.shields.io/badge/Score-0.89122-red?style=flat-square)]()
+[![Rank](https://img.shields.io/badge/Rank-1st%20(Top%201)-yellow?style=flat-square)]()
+[![Task](https://img.shields.io/badge/Task-Binary%20Classification-purple?style=flat-square)]()
 
 
 # 🏆 保险保费预测比赛第三名解决方案
@@ -131,10 +131,10 @@ pip install matplotlib==3.10.8 seaborn==0.13.2
 ## 💡 技术栈
 
 
-      \[\!\[LightGBM\]\(https://img\.shields\.io/badge/LightGBM\-4\.6\.0\-blue?style=flat\-square\)\]\(https://lightgbm\.readthedocs\.io/\)
-      \[\!\[XGBoost\]\(https://img\.shields\.io/badge/XGBoost\-3\.2\.0\-green?style=flat\-square\)\]\(https://xgboost\.readthedocs\.io/\)
-      \[\!\[CatBoost\]\(https://img\.shields\.io/badge/CatBoost\-1\.2\.10\-orange?style=flat\-square\)\]\(https://catboost\.ai/\)
-      \[\!\[Pandas\]\(https://img\.shields\.io/badge/Pandas\-2\.2\.3\-teal?style=flat\-square\)\]\(https://pandas\.pydata\.org/\)
-      \[\!\[Polars\]\(https://img\.shields\.io/badge/Polars\-1\.7\.0\-blue?style=flat\-square\)\]\(\)
-      \[\!\[Optuna\]\(https://img\.shields\.io/badge/Optuna\-4\.8\.0\-purple?style=flat\-square\)\]\(\)
+[![LightGBM](https://img.shields.io/badge/LightGBM-4.6.0.99-blue?style=flat-square)](https://lightgbm.readthedocs.io/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-3.2.0-green?style=flat-square)](https://xgboost.readthedocs.io/)
+[![CatBoost](https://img.shields.io/badge/CatBoost-1.2.10-orange?style=flat-square)](https://catboost.ai/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.6.0%2Bcu124-purple?style=flat-square)](https://pytorch.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-2.2.3-teal?style=flat-square)](https://pandas.pydata.org/)
+
     
